@@ -7,9 +7,6 @@ It showcases my profile as a Computer Science Engineering student with a focus o
 - Clean layout with profile image and intro
 - Skills section (C, C++, Python, HTML,CSS)
 
-## 🔗 Live Link
-[Click here to view](https://yourusername.github.io/portfolio)
-
 ## 🙋‍♀️ About Me
 I'm Vaishnavi — a CSE student passionate about **Artificial Intelligence**, **Machine Learning**, and building cool stuff with code.
 
