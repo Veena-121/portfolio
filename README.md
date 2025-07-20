@@ -13,3 +13,5 @@ I'm Vaishnavi — a CSE student passionate about **Artificial Intelligence**, **
 ## 📫 Connect
 - Instagram: [@vaishnavi.1163](https://www.instagram.com/vaishnavi.1163?igsh=MXY4Zmp5aDFwejZ3aA==)
 - LinkedIn: [vaishnavi-61a187330](http://www.linkedin.com/in/vaishnavi-61a187330)
+
+image used is not mine , it's from pinterest..
