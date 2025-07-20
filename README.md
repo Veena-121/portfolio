@@ -10,6 +10,9 @@ It showcases my profile as a Computer Science Engineering student with a focus o
 ## 🙋‍♀️ About Me
 I'm Vaishnavi — a CSE student passionate about **Artificial Intelligence**, **Machine Learning**, and building cool stuff with code.
 
+## Live link 
+- https://veena-121.github.io/portfolio/ 
+
 ## 📫 Connect
 - Instagram: [@vaishnavi.1163](https://www.instagram.com/vaishnavi.1163?igsh=MXY4Zmp5aDFwejZ3aA==)
 - LinkedIn: [vaishnavi-61a187330](http://www.linkedin.com/in/vaishnavi-61a187330)
